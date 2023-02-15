@@ -44,6 +44,8 @@ static void SayInvalid()
     PauseAction();
 }
 
+
+//displays the full triangle for the bonus points Jeff stated in class
 static void GetFull()
 {
     Random rnd = new Random();
